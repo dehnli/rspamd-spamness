@@ -6,3 +6,6 @@
 <!ENTITY spamness.buttonTrainSpam.label "Train spam">
 <!ENTITY spamness.buttonTrainHam.tooltip "Move message to ham training folder">
 <!ENTITY spamness.buttonTrainSpam.tooltip "Move message to spam training folder">
+
+<!ENTITY spamness.buttonMove.label "Move">
+<!ENTITY spamness.buttonCopy.label "Copy">

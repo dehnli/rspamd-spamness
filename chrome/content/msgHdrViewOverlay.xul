@@ -21,9 +21,9 @@
                    image="chrome://rspamd-spamness/skin/arrow-down.png"
                    oncommand="RspamdSpamness.moveMessage('TrainHam');">
       <menupopup>
-        <menuitem label="Move" default="true" />
+        <menuitem label="&spamness.buttonMove.label;" default="true" />
         <menuseparator/>
-        <menuitem label="Copy"
+        <menuitem label="&spamness.buttonCopy.label;"
                   oncommand="RspamdSpamness.moveMessage('TrainHam', 'copy'); event.stopPropagation();" />
       </menupopup>
     </toolbarbutton>
@@ -35,9 +35,9 @@
                    image="chrome://rspamd-spamness/skin/arrow-up.png"
                    oncommand="RspamdSpamness.moveMessage('TrainSpam');" >
       <menupopup>
-        <menuitem label="Move" default="true" />
+        <menuitem label="&spamness.buttonMove.label;" default="true" />
         <menuseparator/>
-        <menuitem label="Copy"
+        <menuitem label="&spamness.buttonCopy.label;"
                   oncommand="RspamdSpamness.moveMessage('TrainSpam', 'copy'); event.stopPropagation();" />
       </menupopup>
     </toolbarbutton>

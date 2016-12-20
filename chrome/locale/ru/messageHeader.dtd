@@ -6,3 +6,6 @@
 <!ENTITY spamness.buttonTrainSpam.label "Обучить как спам">
 <!ENTITY spamness.buttonTrainHam.tooltip "Переместить сообщение в папку для обучения как не-спам">
 <!ENTITY spamness.buttonTrainSpam.tooltip "Переместить сообщение в папку для обучения как спам">
+
+<!ENTITY spamness.buttonMove.label "Переместить">
+<!ENTITY spamness.buttonCopy.label "Копировать">
